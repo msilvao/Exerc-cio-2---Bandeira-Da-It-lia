@@ -1,0 +1,28 @@
+.bandeira {
+  display: flex;
+  width: 600px;
+  height: 350px;
+  border: 2px solid;
+  left:50%;
+  top:50%;
+  margin-left:-300px; /* Metade do valor da Largura */
+  margin-top:-175px; /* Metade da valor da Altura */
+  position:absolute;
+}
+
+.faixa {
+  width: 33.333%;
+  height: 100%;
+}
+
+.verde {
+  background-color: #115930;
+}
+
+.branco {
+  background-color: #D8D9D7;
+}
+
+.vermelho {
+  background-color: #A60F0F;
+}
